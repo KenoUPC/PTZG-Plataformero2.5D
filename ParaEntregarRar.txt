@@ -1,0 +1,1 @@
+si es un proyecto blueprint dejar solo las 2 carpetas Content y config + el uproject.
